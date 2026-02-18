@@ -25,8 +25,6 @@
 
 ## 📸 Screenshots
 
-_Please replace the following placeholders with actual screenshots of your application._
-
 ### 🔹 Login / Welcome Screen
 
 ![Login Screen](screenshots/login.png)
@@ -108,3 +106,4 @@ Contributions, issues, and feature requests are welcome!
 ## 📝 License
 
 This project is [MIT](LICENSE) licensed.
+
